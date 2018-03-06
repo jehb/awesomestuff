@@ -1,11 +1,11 @@
-# awesomestuff
-A directory of things I find cool
+# Awesome Stuff
+A directory of things I find cool. You might tool, but the primary audience is me.
 
 # Data Science
 * [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
 * [Predicting Building Code Compliance with Machine Learning Models](https://www.azavea.com/blog/2017/09/21/building-inspection-prediction/)
-[101 NumPy Exercises for Data Analysis](https://www.machinelearningplus.com/101-numpy-exercises-python/)
-[Python Plotting With Matplotlib (Guide)](https://realpython.com/blog/python/python-matplotlib-guide/)
+* [101 NumPy Exercises for Data Analysis](https://www.machinelearningplus.com/101-numpy-exercises-python/)
+* [Python Plotting With Matplotlib (Guide)](https://realpython.com/blog/python/python-matplotlib-guide/)
 
 ## Jupyter
 [A Diagram Editor for JupyterLab](https://blog.jupyter.org/a-diagram-editor-for-jupyterlab-a254121ff919)
