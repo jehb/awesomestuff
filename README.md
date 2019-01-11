@@ -21,6 +21,9 @@ A directory of things I find cool. You might tool, but the primary audience is m
 * [Growing a company that sells miniature construction supplies to $17k a month](https://www.starterstory.com/mini-materials)
 * [Ask HN: Successful one-person online businesses?](https://news.ycombinator.com/item?id=16482392)
 
+# Career
+* [A Career Cold Start Algorithm](http://boz.com/articles/career-cold-start.html)
+
 # WordPress
 
 * [15 Essential Plugins and Features For Your WordPress Website](https://www.dreamhost.com/blog/15-essential-wordpress-plugins/)
